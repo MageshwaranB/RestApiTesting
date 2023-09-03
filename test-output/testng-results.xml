@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T10:53:34 IST" name="Default suite" finished-at="2022-03-29T10:53:36 IST" duration-ms="2981">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T10:53:34 IST" name="Default test" finished-at="2022-03-29T10:53:36 IST" duration-ms="2981">
+      <class name="com.startingWithRestApi.CustomRequestDemo">
+        <test-method signature="customRequest()[pri:0, instance:com.startingWithRestApi.CustomRequestDemo@3fb1549b]" started-at="2022-03-29T10:53:34 IST" name="customRequest" finished-at="2022-03-29T10:53:36 IST" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customRequest -->
+        <test-method signature="traceExample()[pri:0, instance:com.startingWithRestApi.CustomRequestDemo@3fb1549b]" started-at="2022-03-29T10:53:36 IST" name="traceExample" finished-at="2022-03-29T10:53:36 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- traceExample -->
+      </class> <!-- com.startingWithRestApi.CustomRequestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
